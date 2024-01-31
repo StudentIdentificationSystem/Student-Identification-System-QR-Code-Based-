@@ -9,7 +9,7 @@ Moreover, it includes a system to monitor students' check-in and check-out activ
 
 ## instructions for Hardware
 
-1) First downaload arduino IDE from Arduino Website and Install in computer
+1) First Download Arduino IDE from Arduino Website and Install in computer
 2) Download Esp32 Board from Board Manager 
 3) Download library for ESP32 cam module Wifi Manager library
 4) Download and install OpenCV for QR Code recognition
