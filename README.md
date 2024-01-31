@@ -47,23 +47,20 @@ Troubleshooting issues with an ESP32-CAM module not connecting to its server inv
 6. *Camera Module:*
    - *Camera Module Initialization:* Ensure that the camera module is initialized correctly in the firmware. Check for any errors or warnings related to the camera module in the logs.
    - *Camera Lens:* Ensure the camera lens is clean and free from any obstructions that might interfere with image capture..
-8. *Reset and Restart:*
+7. *Reset and Restart:*
    - *Hardware Reset:* Try resetting the ESP32-CAM by power cycling it or using the hardware reset button if available.
    - *Restart Router:* If the issue persists, restart the Wi-Fi router to ensure a fresh connection attempt.
-
-9. 
-10. *Environmental Factors:*
+ 
+8. *Environmental Factors:*
     - *Interference:* Check for any sources of interference in the environment, such as other electronic devices or physical obstacles that might affect Wi-Fi signals.
 
-11. *Debugging Tools:*
+9. *Debugging Tools:*
     - *Wi-Fi Analyzer:* Use a Wi-Fi analyzer tool to check for nearby Wi-Fi networks and their signal strengths. Ensure that the ESP32-CAM is on a clear channel.
-    - 
-Mobile Hotspot Configuration:
+     
+10. *Mobile Hotspot Configuration:*
+    - *Check Hotspot Settings:* Verify that the mobile phone's hotspot is active and correctly configured. Ensure that the ESP32-CAM has the correct SSID and password for the mobile hotspot.
 
-Check Hotspot Settings: Verify that the mobile phone's hotspot is active and correctly configured. Ensure that the ESP32-CAM has the correct SSID and password for the mobile hotspot.
-Phone Connectivity:
-
-
+ 
 
 
 ## Contact Information  :  Alghamdii.bi@gmail.com 
